@@ -1,0 +1,6 @@
+{
+  "name": "MediCore Hospital Operations Intelligence",
+  "description": "Interactive healthcare operations management analytics platform tracking patient flow, wait times, diagnostic turnaround, capacity utilization, and hospital financial performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
